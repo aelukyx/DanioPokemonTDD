@@ -1,0 +1,5 @@
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\MasterPokemon\bin\Debug\MasterPokemon.dll
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\MasterPokemon\bin\Debug\MasterPokemon.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\MasterPokemon\obj\Debug\MasterPokemon.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\MasterPokemon\obj\Debug\MasterPokemon.dll
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\MasterPokemon\obj\Debug\MasterPokemon.pdb

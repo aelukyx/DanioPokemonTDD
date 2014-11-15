@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\LabPokemon\bin\Debug\LabPokemon.dll
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\LabPokemon\bin\Debug\LabPokemon.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\LabPokemon\bin\Debug\MasterPokemon.dll
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\LabPokemon\bin\Debug\nunit.framework.dll
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\LabPokemon\bin\Debug\MasterPokemon.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\LabPokemon\bin\Debug\nunit.framework.xml
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\LabPokemon\obj\Debug\LabPokemon.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\LabPokemon\obj\Debug\LabPokemon.dll
+c:\users\administrador\documents\visual studio 2012\Projects\MasterPokemon\LabPokemon\obj\Debug\LabPokemon.pdb
